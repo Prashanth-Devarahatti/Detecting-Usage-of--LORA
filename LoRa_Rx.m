@@ -13,9 +13,6 @@ function [message] = LoRa_Rx(signal,Bandwidth,SF,Coherece,Fs,df,varargin)
 %  out:  message       LoRa payload message chahracters
 %        symbols_Demod LoRa payload symbols vector  
 %
-% Dr Bassel Al Homssi  
-% RMIT University 
-% Credit to rpp0 on https://github.com/rpp0/gr-lora
 
 if nargin == 6
     SNR                 = Inf ;
