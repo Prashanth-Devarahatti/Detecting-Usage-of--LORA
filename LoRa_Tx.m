@@ -14,9 +14,6 @@ function [signal_mod] = LoRa_Tx(message,Bandwidth,SF,Pt,Fs,df,varargin)
 %  out:  signal       LoRa IQ waveform
 %        packet       encoded message
 %
-% Dr Bassel Al Homssi  
-% RMIT University 
-% Credit to rpp0 on https://github.com/rpp0/gr-lora
 
 if nargin == 6
     CR = 1 ;
