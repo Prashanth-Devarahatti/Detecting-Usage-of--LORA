@@ -30,13 +30,3 @@ This repository contains MATLAB files for simulating LoRa (Long Range) signals. 
 - Refer to the comments within the MATLAB scripts for detailed explanations of the code and parameters.
 - Feel free to modify and extend the provided scripts to suit your specific simulation requirements.
 
-## Contributors:
-
-- [Your Name or Username]
-
-## License:
-
-[License information, if applicable]
-
----
-Feel free to customize the README further with additional sections or details as needed!
