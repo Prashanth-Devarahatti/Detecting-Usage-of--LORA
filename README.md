@@ -1,14 +1,14 @@
-## LoRa Signal Detection and Decoding Simulation
+## LoRa Signal Capturing and Decoding Simulation
 
 This repository contains MATLAB files for simulating LoRa (Long Range) signals. LoRa is a wireless communication technology widely used in IoT (Internet of Things) applications due to its long-range capabilities and low power consumption.
 
 ## Files Included:
 
-1. LoRA_Rx.m: This MATLAB script simulates the receiver (Rx) side of the LoRa communication system. It processes the received LoRa signal and extracts useful information from it.
+1. **LoRA_Rx.m**: This MATLAB script simulates the receiver (Rx) side of the LoRa communication system. It processes the received LoRa signal and extracts useful information from it.
 
-2. LoRA_Tx.m: This MATLAB script simulates the transmitter (Tx) side of the LoRa communication system. It generates a LoRa signal with specified parameters such as spreading factor, bandwidth, and payload.
+2. **LoRA_Tx.m**: This MATLAB script simulates the transmitter (Tx) side of the LoRa communication system. It generates a LoRa signal with specified parameters such as spreading factor, bandwidth, and payload.
 
-3. Pilot Files: Pilot files are provided to aid in the simulation process. These files may include predefined channel characteristics or other necessary parameters for simulating the LoRa signals.
+3. **Pilot Files**: Pilot files are provided to aid in the simulation process. These files may include predefined channel characteristics or other necessary parameters for simulating the LoRa signals.
 
 ## Usage:
 
@@ -30,3 +30,13 @@ This repository contains MATLAB files for simulating LoRa (Long Range) signals. 
 - Refer to the comments within the MATLAB scripts for detailed explanations of the code and parameters.
 - Feel free to modify and extend the provided scripts to suit your specific simulation requirements.
 
+## Contributors:
+
+- [Your Name or Username]
+
+## License:
+
+[License information, if applicable]
+
+---
+Feel free to customize the README further with additional sections or details as needed!
